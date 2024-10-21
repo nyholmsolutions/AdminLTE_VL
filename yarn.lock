@@ -3668,9 +3668,9 @@ seek-bzip@^1.0.3:
   dependencies:
     commander "~2.8.1"
 
-select2@^4.0.3:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.4.tgz#a18a628785f98d13999971ae95d8d7e57268076b"
+select2@^4.0.13:
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.13.tgz#0dbe377df3f96167c4c1626033e924372d8ef44d"
   dependencies:
     almond "~0.3.1"
     jquery-mousewheel "~3.1.13"
